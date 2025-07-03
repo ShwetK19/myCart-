@@ -1,0 +1,8 @@
+email,password
+testuser@email.com,Test@123
+wronguser@email.com,wrongpass
+testuser@email.com,
+,Test@123
+,
+@!#%&*(),Test@123
+' OR '1'='1,' OR '1'='1
